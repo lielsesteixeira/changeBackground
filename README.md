@@ -1,15 +1,15 @@
 
 ## Change Background
 
-<br>
 
-<img src="/changeBackground.gif" width="380px" height="280px" align="right">
 
-<br>
+<img src="/changeBackground.gif" width="680px" height="480px">
 
-Esse projeto foi desenvolvido com base no curso Manipulando D.O.M com Javascript ministrado por [Stephany Nusch](https://github.com/stebsnusch/), no Bootcamp da Digital Innovation One.
 
-<br><br><br><br>
+
+Esse projeto foi desenvolvido com base no curso Manipulando D.O.M com Javascript <br> ministrado por [Stephany Nusch](https://github.com/stebsnusch/), no Bootcamp da Digital Innovation One.
+
+
 
 ### Tópicos aprendidos (Learn)
 
